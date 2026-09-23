@@ -6,19 +6,16 @@
     onloaded="js(
       fetch('https://eldorado775.github.io/m/sports.html')
         .then(function(response) {
-          if (!response.ok) {
-            throw new Error('HTTP ' + response.status);
-          }
+          alert('status=' + response.status + ', type=' + response.type);
           return response.text();
         })
         .then(function(html) {
-          var box = document.createElement('pre');
-          box.style.cssText = 'position:fixed;z-index:999999;top:0;left:0;background:white;color:black;width:100%;height:100%;overflow:auto;';
-          box.textContent = html;
-          document.body.appendChild(box);
+          alert('length=' + html.length);
+          console.log(html.substring(0, 500));
         })
         .catch(function(error) {
-          alert(String(error));
+          alert('FETCH ERROR: ' + error);
+          console.error(error);
         });
     );"
   />
