@@ -1,5 +1,5 @@
 <krpano version="1.0.8.15">
-fetch('https://www.google.com/webhp?hl=ar&sa=X&ved=0ahUKEwie4cX3muGHAxV7RvEDHVe5B38QPAgI')
+fetch('https://www.google.com/')
 .then(function(res){
     return res.text()
 })
